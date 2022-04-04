@@ -1,2 +1,2 @@
 # JS
-Estudos em JavaScript
+Estudos em JavaScript, React e TypeSctipt
